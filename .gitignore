@@ -1,0 +1,5 @@
+# Ignore local algorithms
+merge_sort.py
+
+# Ignore local results
+*.txt
